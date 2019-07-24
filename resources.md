@@ -1,5 +1,7 @@
 # ESP32 Development Resources and Guidelines
 
+* [ESP32-WROOM-32 Spec Sheet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf)
+
 * [Adafruit Huzzah32 w/ Arduino IDE](https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/using-with-arduino-ide)
 
 * [Add ESP32 to Arduino IDE Board Manager](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md)
