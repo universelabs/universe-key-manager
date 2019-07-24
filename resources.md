@@ -21,3 +21,7 @@
 * [React Native Bluetooth Library](https://github.com/Polidea/react-native-ble-plx)
 
 * [ESP32 SPI Flash documentation](https://github.com/espressif/esp-idf/blob/master/docs/en/api-reference/peripherals/spi_master.rst)
+
+* [ESP32 Flash Memory Documentation](https://randomnerdtutorials.com/esp32-flash-memory/)
+
+
