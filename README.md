@@ -54,7 +54,7 @@
 ## Status
 
 [![Slack](https://img.shields.io/badge/Community-Join_the_Slack!-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
-[![Universe Mobile Device Version](https://img.shields.io/badge/Version-v0.1.0%2Dalpha-red.svg?colorA=212121&colorB=FF0000)](https://github.com/universelabs/universe-mobile-device/blob/master/bluetooth/bluetooth.ino)
+[![Universe Mobile Device Version](https://img.shields.io/badge/Version-v0.1.0.alpha-red.svg?colorA=212121&colorB=FF0000)](https://github.com/universelabs/universe-mobile-device/blob/master/bluetooth/bluetooth.ino)
 
 
 ## Contributing
