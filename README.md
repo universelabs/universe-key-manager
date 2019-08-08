@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Universe Mobile Device</h3>
   <p>
-    Universe is a key management software solution for decentralized platforms.
+    Universe's Bluetooth enabled mobile device.
     <br/>
     <a href="https://universe.engineering">
       <strong>universe.engineering</strong>
@@ -43,9 +43,7 @@
 
 ## Table of contents
 
-- [Quick start](#quick-start)
 - [Status](#status)
-- [Getting started](#getting-started)
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
 - [Community](#community)
@@ -53,5 +51,57 @@
 - [License](#license)
 
 
-## Quick start
+## Status
 
+[![Slack](https://img.shields.io/badge/Community-Join_the_Slack!-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
+[![Universe Mobile Device Version](https://img.shields.io/badge/Version-vv0.1.0-alpha-red.svg?colorA=212121&colorB=FF0000)](https://github.com/universelabs/universe-mobile-device/blob/master/bluetooth/bluetooth.ino)
+
+
+## Contributing
+
+Please read through our [contributing guidelines](https://github.com/universelabs/universe/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
+Moreover, if your pull request contains JavaScript patches or features, you
+must include relevant unit tests. All code should conform to the [Code Guidelines](https://github.com/universelabs/universe/blob/master/CONTRIBUTING.md#code-guidelines).
+
+
+## Roadmap
+
+Universe Labs' mission is to become the largest open source node and key management network.
+
+[› Universe Roadmap](https://github.com/universelabs/universe/blob/master/ROADMAP.md)
+
+View the Universe Roadmap to learn more about project overview, goals, execution to date, milestones, current tech stack, and more...
+
+
+## Community
+
+Get updates on Universe's development and chat with the project maintainers and community members.
+
+- Subscribe to the [Universe Newsletter](http://universe.engineering/subscribe)
+- [Star this repo](https://github.com/universelabs/universe/stargazers)
+- Follow [@universelabs](https://twitter.com/universelabs) on Twitter.
+- Join the official Universe [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE).
+
+
+## Maintainers
+
+**Itamar Reif**
+- <https://twitter.com/itamarreif>
+- <https://github.com/itamarreif>
+
+**Jacob Gadakian**
+- <https://twitter.com/gadikian>
+- <https://github.com/faddat>
+
+
+## License
+
+By contributing your code, you agree to license your contribution under the [
+MIT License](LICENSE).
+
+<div align="right">
+  <a href="https://opensource.guide/how-to-contribute/#why-contribute-to-open-source">
+    <img src="https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/" alt="Open Source">
+  </a>
+</div>
