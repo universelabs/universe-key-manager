@@ -20,6 +20,10 @@
       Report bug
     </a>
     &nbsp;&middot;&nbsp;
+    <a href="https://github.com/universelabs/universe-mobile-device/blob/master/resources.md" alt="Resources">
+      Resources
+    </a>
+    &nbsp;&middot;&nbsp;
     <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
       Slack
     </a>
@@ -36,4 +40,18 @@
 </div>
 
 <br/>
+
+## Table of contents
+
+- [Quick start](#quick-start)
+- [Status](#status)
+- [Getting started](#getting-started)
+- [Contributing](#contributing)
+- [Roadmap](#roadmap)
+- [Community](#community)
+- [Maintainers](#maintainers)
+- [License](#license)
+
+
+## Quick start
 
