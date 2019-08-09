@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Universe Bluetooth</h3>
   <p>
-    Universe's Bluetooth enabled mobile device.
+    Universe bluetooth software signer.
     <br/>
     <a href="https://universe.engineering">
       <strong>universe.engineering</strong>
