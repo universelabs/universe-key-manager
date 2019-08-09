@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Universe Mobile Device</h3>
+  <h3>Universe Bluetooth</h3>
   <p>
     Universe's Bluetooth enabled mobile device.
     <br/>
