@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Universe Bluetooth</h3>
   <p>
-    Universe bluetooth software signer.
+    Universe's Bluetooth Key Manager.
     <br/>
     <a href="https://universe.engineering">
       <strong>universe.engineering</strong>
