@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Universe Bluetooth</h3>
+  <h3>Universe Key Manager</h3>
   <p>
     Universe's Bluetooth Key Manager.
     <br/>
