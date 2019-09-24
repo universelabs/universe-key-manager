@@ -1,14 +1,14 @@
 <div align="center">
   <h3>Universe Key Manager</h3>
   <p>
-    Universe's Bluetooth Key Manager.
+    Universe key manager software.
     <br/>
     <a href="https://universe.engineering">
       <strong>universe.engineering</strong>
     </a>
   </p>
   <p>
-    <a href="https://github.com/universelabs/universe-mobile-device/issues/new?labels=&template=feature_request.md" alt="Request feature">
+    <a href="https://github.com/universelabs/universe-key-manager/issues/new?labels=&template=feature_request.md" alt="Request feature">
       Request feature
     </a>
     &nbsp;&middot;&nbsp;
@@ -16,15 +16,15 @@
       Explore
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/universelabs/universe-mobile-device/issues/new?labels=&template=bug_report.md" alt="Report a Bug">
+    <a href="https://github.com/universelabs/universe-key-manager/issues/new?labels=&template=bug_report.md" alt="Report a Bug">
       Report bug
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/universelabs/universe-mobile-device/blob/master/resources.md" alt="Resources">
+    <a href="https://github.com/universelabs/universe-key-manager/blob/master/resources.md" alt="Resources">
       Resources
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE">
+    <a href="https://join.slack.com/t/universelabs/shared_invite/enQtNjA2MjM1NjAyNzI0LTUyYWZjM2I5M2VhMTU3YTY3ZGI0YTAwNDQwN2I1Mzc4Yjk3YTg2Y2IxOGMyMDljOTdkM2Y4NTM3ZTAwYzc3NTg">
       Slack
     </a>
     <br/>
@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/twitter/url/https/twitter.com/universelabs.svg?style=social&label=Follow%20%40universelabs&logo=twitter" alt="follow on Twitter" />
     </a>
     &nbsp;&middot;&nbsp;
-    <a href="https://github.com/universelabs/universe-mobile-device/stargazers">
+    <a href="https://github.com/universelabs/universe-key-manager/stargazers">
       <img src="https://img.shields.io/github/stars/universelabs/universe-mobile-device.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo" />
     </a>
   </p>
@@ -53,7 +53,7 @@
 
 ## Status
 
-[![Slack](https://img.shields.io/badge/Community-Join_the_Slack!-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE)
+[![Slack](https://img.shields.io/badge/Community-Join_the_Slack!-purple.svg?colorA=212121&colorB=3f46ad)](https://join.slack.com/t/universelabs/shared_invite/enQtNjA2MjM1NjAyNzI0LTUyYWZjM2I5M2VhMTU3YTY3ZGI0YTAwNDQwN2I1Mzc4Yjk3YTg2Y2IxOGMyMDljOTdkM2Y4NTM3ZTAwYzc3NTg)
 [![Universe Mobile Device Version](https://img.shields.io/badge/Version-v0.1.0.alpha-red.svg?colorA=212121&colorB=FF0000)](https://github.com/universelabs/universe-mobile-device/blob/master/bluetooth/bluetooth.ino)
 
 
@@ -67,7 +67,7 @@ must include relevant unit tests. All code should conform to the [Code Guideline
 
 ## Roadmap
 
-Universe Labs' mission is to become the largest open source node and key management network.
+Universe Labs' mission is to become the largest decentralized login and decentralized private key recovery protocol.
 
 [› Universe Roadmap](https://github.com/universelabs/universe/blob/master/ROADMAP.md)
 
@@ -81,7 +81,7 @@ Get updates on Universe's development and chat with the project maintainers and 
 - Subscribe to the [Universe Newsletter](http://universe.engineering/subscribe)
 - [Star this repo](https://github.com/universelabs/universe/stargazers)
 - Follow [@universelabs](https://twitter.com/universelabs) on Twitter.
-- Join the official Universe [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNDQ0MjY3NDI5MTkwLTIzMWQ4M2U3MGQ3ZDY5MzM5MGQ5ZDM1MDZjNTgwNGI5NDdiNDY4ZDQyNWI2NjEzZmU3NzVmOTYwYzEzYzc1ZDE).
+- Join the official Universe [Slack](https://join.slack.com/t/universelabs/shared_invite/enQtNjA2MjM1NjAyNzI0LTUyYWZjM2I5M2VhMTU3YTY3ZGI0YTAwNDQwN2I1Mzc4Yjk3YTg2Y2IxOGMyMDljOTdkM2Y4NTM3ZTAwYzc3NTg).
 
 
 ## Maintainers
